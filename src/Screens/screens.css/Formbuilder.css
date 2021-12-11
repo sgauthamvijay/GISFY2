@@ -1,0 +1,26 @@
+.Cards{
+    padding: 50px;
+    margin-top: 50px;
+   
+}
+.Card1{
+    margin-top: 30px;
+}
+.Card2{
+    margin-top: 30px;
+}
+.Card3{
+    margin-top: 30px;
+}
+.addcustom{
+    border: dotted black;
+  
+    height: 100px;
+}
+.heading{
+    margin-top: 100px;
+}
+.Tooltip{
+    border:  solid black;
+    background-color: burlywood;
+}
